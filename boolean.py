@@ -1,7 +1,7 @@
 a = 100
 b = 50
 
-if b > a:
+if a > b:
   print("a lebih besar dari b")
 else:
   print("a tidak lebih besar dari b")
