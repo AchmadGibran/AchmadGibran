@@ -1,5 +1,5 @@
 #Achmad Gibran - 202412003
-#Tugas 3 OOP
+#Tugas 4 OOP
 
 # Class Karyawan (Parent Class)
 class Karyawan:
@@ -14,7 +14,7 @@ class Karyawan:
 
     def info(self):
         # Gaji
-        gaji_terformat = {float(self.hitung_gaji())}
+        gaji_terformat = float(self.hitung_gaji())
 
         return f"Karyawan : {self.nama}, ID: {self.id_karyawan}, Gaji: {gaji_terformat}"
 
