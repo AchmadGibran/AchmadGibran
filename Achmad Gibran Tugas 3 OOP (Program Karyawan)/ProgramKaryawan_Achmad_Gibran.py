@@ -14,7 +14,7 @@ class Karyawan:
 
     def info(self):
         # Mengambil nilai integer gaji total dan menambahkan suffix '.0'
-        gaji_terformat = f"{int(self.hitung_gaji())}.0"
+        gaji_terformat = {float(self.hitung_gaji())}
 
         return f"Karyawan : {self.nama}, ID: {self.id_karyawan}, Gaji: {gaji_terformat}"
 
@@ -48,10 +48,10 @@ class Programmer(Karyawan):
 
 
 # Manager: Achmad, A001, Total Gaji 8.000.000 (7jt + 1jt)
-manager1 = Manager("Achmad", "A001", 7000000.0, 1000000.0) 
+manager1 = Manager("Achmad", "A001", 7000000, 1000000) 
 
 # Programmer: Gibran, G001, Total Gaji 13.000.000 (11jt + 2jt)
-programmer1 = Programmer("Gibran", "G001", 11000000.0, 2000000.0) 
+programmer1 = Programmer("Gibran", "G001", 11000000, 2000000) 
 
 # Menampilkan
 print(manager1.info())
