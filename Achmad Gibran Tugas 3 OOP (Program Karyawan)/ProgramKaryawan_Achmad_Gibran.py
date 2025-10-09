@@ -13,7 +13,7 @@ class Karyawan:
         return self.gaji_pokok
 
     def info(self):
-        # Mengambil nilai integer gaji total dan menambahkan suffix '.0'
+        # Gaji
         gaji_terformat = {float(self.hitung_gaji())}
 
         return f"Karyawan : {self.nama}, ID: {self.id_karyawan}, Gaji: {gaji_terformat}"
