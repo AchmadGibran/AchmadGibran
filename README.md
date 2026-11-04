@@ -68,15 +68,6 @@ Membangun aplikasi web dan merancang antarmuka.
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchmadGibran/AchmadGibran/output/github-snake-dark.svg"/>
-  <img alt="Snake memakan grafik kontribusi" src="https://raw.githubusercontent.com/AchmadGibran/AchmadGibran/output/github-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
 <div align="center">
 <img src="assets/credits.svg" alt="End credits" width="100%"/>
 </div>
