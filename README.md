@@ -5,7 +5,7 @@
 <br/>
 
 **Mahasiswa Teknik Informatika (IPK 3.90)** dari Bontang, berlatar belakang SMK Rekayasa Perangkat Lunak.<br/>
-Membangun aplikasi web, merancang antarmuka, dan sesekali memetik gitar.
+Membangun aplikasi web dan merancang antarmuka.
 
 <br/>
 
@@ -37,10 +37,10 @@ Membangun aplikasi web, merancang antarmuka, dan sesekali memetik gitar.
 
 <br/>
 
-## 🎸 The Fretboard
+## 🧰 Tech Stack
 
 <div align="center">
-<img src="assets/fretboard.svg" alt="Tech stack ditampilkan sebagai senar gitar" width="100%"/>
+<img src="assets/fretboard.svg" alt="Tech stack" width="100%"/>
 </div>
 
 <br/>
