@@ -68,15 +68,6 @@ Membangun aplikasi web dan merancang antarmuka.
 
 <br/>
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AchmadGibran&show_icons=true&hide_border=true&bg_color=06070c&title_color=a78bfa&icon_color=22d3ee&text_color=d6d8e2&border_radius=16" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadGibran&layout=compact&hide_border=true&bg_color=06070c&title_color=a78bfa&text_color=d6d8e2&border_radius=16" alt="Top languages"/>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchmadGibran/AchmadGibran/output/github-snake-dark.svg"/>
   <img alt="Snake memakan grafik kontribusi" src="https://raw.githubusercontent.com/AchmadGibran/AchmadGibran/output/github-snake.svg" width="100%"/>
